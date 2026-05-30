@@ -10,6 +10,8 @@ Kullanıcıların yabancı dil kelimelerini oyunlaştırma öğeleri (XP, Kalp/C
 
 Bu proje **React Native** ve **Expo** kullanılarak geliştirilmiştir. Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları sırasıyla uygulayınız:
 
+('PROJE ASIL OLARAK MOBİL UYGULAMA OLARAK GELİŞTİRİLMİŞTİR TELEFONDAN DENEMENİZ ÖNERİLİR.')
+
 ### Ön Koşullar:
 - Bilgisayarınızda **Node.js** yüklü olmalıdır.
 - (İsteğe bağlı) Telefonunuzda uygulamayı canlı test etmek için iOS App Store veya Google Play Store'dan **"Expo Go"** uygulamasını indirmelisiniz.
